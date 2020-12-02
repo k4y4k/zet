@@ -6,6 +6,8 @@ Figured I might as well publish my Zettelkasten (which I have affectionately nic
 
 Citations / references in this document are generated with Zotero and the Better Bibtex plugin. Citekeys are generated with this template: `[authors2+-:lower:nopunct]-[shorttitle3_3][year]`. This results in keys like `test-ImpressiveTitle2020`
 
+The bibliography style used here is APA 6th.
+
 ## To Do
 
 - [ ] Online graph / vis of some kind (it's very cool)
