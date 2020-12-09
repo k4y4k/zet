@@ -9,9 +9,9 @@ Those expressions look like this:
 
 | Rating | Expression | Name | What It Means |
 | --- | --- | --- | --- |
-| Excellent | `O(1)` | constant time | runtime stays the same relative to the size of the input |
+| Excellent | `O(1)` | [[202012091126 Constant Complexity]] | runtime stays the same relative to the size of the input |
 | Excellent | `O(lg n)` |  |  |
-| Fair | `O(n)` | linear time | runtime increases linearly relative to input size |
+| Fair | `O(n)` | [[202012091119 Linear Complexity]] | runtime increases linearly relative to input size |
 | Horrible | `O(n²)` | quadratic time |  |
 | Horrible | `O(2ⁿ)` |  |  |
 | Horrible | `O(n!)` | exponential time | complexity grows exponentially relative to input. |
