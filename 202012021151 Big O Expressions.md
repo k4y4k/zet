@@ -14,7 +14,7 @@ Those expressions look like this:
 | Fair | `O(n)` | [[202012091119 Linear Complexity]] | runtime increases linearly relative to input size |
 | Horrible | `O(n²)` | [[202012091336 Quadratic Time]] | runtime increases by a power of 2 relative to input size |
 | Horrible | `O(2ⁿ)` |  |  |
-| Horrible | `O(n!)` | exponential time | complexity grows exponentially relative to input. |
+| Horrible | `O(n!)` | [[202012111314 Factorial Time]] | for every input, a nested loop is executed. Complexity grows by factors of itself |
 
 And, compared, look like this:
 

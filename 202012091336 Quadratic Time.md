@@ -1,5 +1,5 @@
 ---
-title: quadratic time
+title: Quadratic Time
 date: 2020-12-09 13:36
 ---
 
