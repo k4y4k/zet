@@ -12,7 +12,7 @@ Those expressions look like this:
 | Excellent | `O(1)` | [[202012091126 Constant Complexity]] | runtime stays the same relative to the size of the input |
 | Excellent | `O(lg n)` |  |  |
 | Fair | `O(n)` | [[202012091119 Linear Complexity]] | runtime increases linearly relative to input size |
-| Horrible | `O(n²)` | quadratic time |  |
+| Horrible | `O(n²)` | [[202012091336 Quadratic Time]] | runtime increases by a power of 2 relative to input size |
 | Horrible | `O(2ⁿ)` |  |  |
 | Horrible | `O(n!)` | exponential time | complexity grows exponentially relative to input. |
 
@@ -22,7 +22,7 @@ And, compared, look like this:
 
 An algorithm can be described by several expressions, depending on [[202012021213 Case]].
 
-`n` often needs to be [[202012021139 Simplifying n|simplified]].
+There is a process to [[202012091203 Simplify Big O Expressions|simplifying these]].
 
 ---
 
